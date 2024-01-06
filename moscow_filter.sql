@@ -1,0 +1,1 @@
+SELECT name, surname FROM test.PERSONS WHERE city_of_living = 'Moscow';
